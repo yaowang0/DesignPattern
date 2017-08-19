@@ -1,4 +1,4 @@
-package com.expgiga.javaDesignModel;
+package com.expgiga.designModel;
 
 /**
  * 单例模式
