@@ -1,7 +1,7 @@
 package com.expgiga.javaDesignModel;
 
 /**
- * Created by YaoWang on 2017/8/18.
+ * 单例模式
  */
 public class Singleton {
     private Singleton() {
